@@ -29,7 +29,5 @@
 
 ---
 
-![https://velog.velcdn.com/images/sonnehilda/post/f87a189b-7e8c-4c26-91a8-5c4e70b4e8c3/image.png](https://velog.velcdn.com/images/sonnehilda/post/f87a189b-7e8c-4c26-91a8-5c4e70b4e8c3/image.png)
-
 - [Front-End Github Repository](https://github.com/Sonnehilda/GuessTheWord)
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/985778935021305867/gtw.mp4)

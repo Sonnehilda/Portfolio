@@ -32,8 +32,6 @@
 
 ---
 
-![](https://velog.velcdn.com/images/sonnehilda/post/b44b3e31-fbd4-4141-9df7-e71b7bacad74/image.png)
-
 - [Front-End Github Repository](https://github.com/Sonnehilda/ThePurge)
 - [Back-End Github Repository](https://github.com/biscrab/ThePurge-BackEnd)
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/984466449798160424/The-Purge.mp4)

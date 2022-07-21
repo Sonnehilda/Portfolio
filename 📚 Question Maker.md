@@ -29,7 +29,5 @@
 
 ---
 
-![https://velog.velcdn.com/images/sonnehilda/post/e64ffbc5-ccaf-4774-9530-e29bd04ac4a0/image.png](https://velog.velcdn.com/images/sonnehilda/post/e64ffbc5-ccaf-4774-9530-e29bd04ac4a0/image.png)
-
 - [Front-End Github Repository](https://github.com/Sonnehilda/QuestionMaker)
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/985808549340909638/qm.mp4)

@@ -37,6 +37,4 @@
 
 ---
 
-![https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png](https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png)
-
 • [Generic Github Repository](https://github.com/DSM-DCS)
