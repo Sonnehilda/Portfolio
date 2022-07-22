@@ -6,8 +6,7 @@
 
 ---
 
-- 프로젝트 이름 : Shiritori
-- 프로젝트 완성도 : 100%
+- 프로젝트 제목 : Shiritori
 - 사용한 기술 스택 : React.js, JavaScript
 
 ## 📋 프로젝트 설명
@@ -30,9 +29,14 @@
 
 ---
 
+- 웹에서 오디오를 사용하는 법을 알게 되었습니다.
+- React.js, JavaScript의 지식을 넓히고, react-router-dom과 axios, styled-components 등 다양한 React.js의 기본적인 라이브러리 사용법을 익혔습니다.
+
+## 📋 프로젝트 결과물
+
+---
+
 ![https://velog.velcdn.com/images/sonnehilda/post/42189da7-a44c-4922-907b-e0cb07107361/image.png](https://velog.velcdn.com/images/sonnehilda/post/42189da7-a44c-4922-907b-e0cb07107361/image.png)
 
 - [Front-End Github Repository](https://github.com/Sonnehilda/Shiritori)
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/984671120705847306/Shiritori.mp4)
-- 웹에서 오디오를 사용하는 법을 알게 되었습니다.
-- React.js, JavaScript의 지식을 넓히고, react-router-dom과 axios, styled-components 등 다양한 React.js의 기본적인 라이브러리 사용법을 익혔습니다.

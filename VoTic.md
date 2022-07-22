@@ -6,8 +6,7 @@
 
 ---
 
-- 프로젝트 이름 : VoTic
-- 프로젝트 완성도 : 70%
+- 프로젝트 제목 : VoTic ( 진행중 )
 - 사용한 기술 스택 : Next.js, TypeScript
 
 ## 📋 프로젝트 설명
@@ -34,10 +33,15 @@
 
 ---
 
-![votic.png](VoTic%204e0edd6bbaf44e098d43cc2537a5b265/votic.png)
+- SSR을 지원하는 Next.js을 처음으로 사용하여 투표 정보와 투표 목록을 불러올 때 불러오기 속도 향상을 기대하였습니다. 사용법이 React.js와 비슷하여 어렵지 않게 배울 수 있었습니다.
+- Next.js에서 styled-components를 사용하기 어려웠기에 emotion이라는 CSS-in-JS 라이브러리를 처음으로 사용하였습니다. 사용법이 styled-components와 유사하여 쉽게 배울 수 있었습니다.
+- Next.js의 상태 관리 라이브러리 중 Context API를 처음으로 사용하였습니다. React.js의 useState 훅과 매우 비슷하게 쓰이며 상태값이 바뀔 때 Provider에 감싸진 모든 컴포넌트들이 리 렌더링 된다는 단점이 있습니다.
+- 친구의 조언으로 ThemeProvider를 처음으로 사용하게 되었습니다. 처음에는 복잡하며 왜 사용하는지 의구심이 들었지만, 사용법을 터득해가며 색 코드를 일관성 있게 사용할 수 있어 편하다고 느껴졌습니다.
+
+## 📋 프로젝트 결과물
+
+---
+
+![votic.png](VoTic%2072c59a926fe946b7a359c419d2ffb881/votic.png)
 
 - [Front-End Github Repository](https://github.com/Sonnehilda/VoTic)
-- SSR을 지원하는 Next.js을 처음으로 사용하여 투표 정보와 투표 목록을 불러올 때 불러오기 속도 향상을 기대하였습니다. 사용법이 React.js와 비슷하여 어렵지 않게 배울 수 있었습니다.
-- Next.js에서 styled-components를 사용하기 어려웠기에 emotion이라는 CSS-in-JS 라이브러리를 처음으로 사용하였습니다.
-- Next.js의 상태 관리 라이브러리 중 Context API를 처음으로 사용하였습니다. React.js의 useState 훅과 매우 비슷하게 쓰이며 값이 변경될 때 해당 Context를 사용하는 모든 컴포넌트들이 리 렌더링 된다는 단점이 있다고는 하지만 단점으로 느껴지진 않았습니다.
-- 친구의 조언으로 ThemeProvider를 처음으로 사용하게 되었습니다. 처음에는 복잡하며 왜 사용하는지 의구심이 들었지만, 사용법을 터득해가며 편하다고 느껴졌습니다.

@@ -6,8 +6,7 @@
 
 ---
 
-- 프로젝트 이름 : The Purge
-- 프로젝트 완성도 : 100%
+- 프로젝트 제목 : The Purge
 - 사용한 기술 스택 : React.js, JavaScript
 
 ## 📋 프로젝트 설명
@@ -29,10 +28,15 @@
 
 ---
 
+- React.js를 처음으로 사용하여 리렌더링을 보다 간편하게 하고 useState() 와 useRef() 등 React.js의 사용법을 익히게 되었습니다.
+- react-google-login, axios, styled-components 등 여러 React.js의 라이브러리 사용법과 쿠키의 개념에 대하여 익히게 되었습니다.
+
+## 📋 프로젝트 결과물
+
+---
+
 ![Untitled](The%20Purge%201fa6c94c546847c39a264f6d5e964dc0/Untitled.png)
 
 - [Front-End Github Repository](https://github.com/Sonnehilda/ThePurge)
 - https://github.com/biscrab/ThePurge-BackEnd
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/984466449798160424/The-Purge.mp4)
-- React.js를 처음으로 사용하여 리렌더링을 보다 간편하게 하고 useState() 와 useRef() 등 React.js의 사용법을 익히게 되었습니다.
-- react-google-login, axios, styled-components 등 여러 React.js의 라이브러리 사용법과 쿠키의 개념에 대하여 익히게 되었습니다.

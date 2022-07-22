@@ -6,8 +6,7 @@
 
 ---
 
-- 프로젝트 이름 : DCS
-- 프로젝트 완성도 : 100%
+- 프로젝트 제목 : DCS
 - 사용한 기술 스택 : React.js, TypeScript
 
 ## 📋 프로젝트 설명
@@ -33,10 +32,15 @@
 
 ---
 
-![https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png](https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png)
-
-- [Generic Github Repository](https://github.com/DSM-DCS)
 - 처음으로 협업하여 완성한 프로젝트로 Github 시스템에 대해 더 자세히 알 수 있게 되었습니다.
 - Notion의 사용 방법을 익혔고, 체계적으로 프로젝트를 진행할 수 있게 되었습니다.
 - 백엔드와 소통하며 API 명세서를 보고 axios 라는 React.js의 라이브러리를 사용하여 API 를 연결하였습니다.
 - 팀 프로젝트에서는 소통이 매우 중요하다는 것을 깨닫게 되었습니다.
+
+## 📋 프로젝트 결과물
+
+---
+
+![https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png](https://velog.velcdn.com/images/sonnehilda/post/7866a615-5046-45b3-91ef-14a1974def8e/image.png)
+
+- [Generic Github Repository](https://github.com/DSM-DCS)

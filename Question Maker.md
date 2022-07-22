@@ -6,8 +6,7 @@
 
 ---
 
-- 프로젝트 이름 : Question Maker
-- 프로젝트 완성도 : 100%
+- 프로젝트 제목 : Question Maker
 - 사용한 기술 스택 : React.js, TypeScript
 
 ## 📋 프로젝트 설명
@@ -33,9 +32,14 @@
 
 ---
 
+- AOS (스크롤 시 Fade 효과 라이브러리), moment (시간 라이브러리) 등 다양한 React.js의 라이브러리 사용법을 익혔습니다.
+- 처음으로 배포용 웹사이트를 제작하였습니다. Netlify 를 사용하여 배포하였고, 친구들 사이에서 웹사이트에 대한 반응이 좋아 다행이었지만 사용법을 조금 쉽게 해달라는 요청이 있어 홈페이지에 도움말을 작성하였습니다.
+
+## 📋 프로젝트 결과물
+
+---
+
 ![https://velog.velcdn.com/images/sonnehilda/post/e64ffbc5-ccaf-4774-9530-e29bd04ac4a0/image.png](https://velog.velcdn.com/images/sonnehilda/post/e64ffbc5-ccaf-4774-9530-e29bd04ac4a0/image.png)
 
 - [Front-End Github Repository](https://github.com/Sonnehilda/QuestionMaker)
 - [Video](https://cdn.discordapp.com/attachments/921423896270491668/985808549340909638/qm.mp4)
-- AOS (스크롤 시 Fade 효과 라이브러리), moment (시간 라이브러리) 등 다양한 React.js의 라이브러리 사용법을 익혔습니다.
-- 처음으로 배포용 웹사이트를 제작하였습니다. Netlify 를 사용하여 배포하였고, 친구들 사이에서 웹사이트에 대한 반응이 좋아 다행이었지만 사용법을 조금 쉽게 해달라는 요청이 있어 홈페이지에 도움말을 작성하였습니다.
